@@ -1,6 +1,6 @@
 # Abstract Algebra Visualizer
 
-Just a simple tool for visualizing groups and eventually other abstract objects.
+Just a simple tool for visualizing groups and eventually other abstract objects written with the Rust programming language and OpenGL.
 
 ## Installation
 
@@ -9,7 +9,7 @@ Either download and extract the zip manually or use git to clone the repository 
 
 To clone use:
 ```bash
-git clone /link/to/this/repository
+git clone https://github.com/DamonPalovaara/Abstract-Algebra-Visualizer
 ```
 
 To update the repository use:
@@ -17,7 +17,7 @@ To update the repository use:
 git pull
 ```
 
-For more instructions on how to use git follow this [link](rogerdudler.github.io/git-guide/)
+For more instructions on how to install and use git follow this [link](rogerdudler.github.io/git-guide/)
 
 ## Running
 
