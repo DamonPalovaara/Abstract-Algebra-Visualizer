@@ -17,13 +17,13 @@ To update the repository use:
 git pull
 ```
 
-For more instructions on how to install and use git follow this [link](rogerdudler.github.io/git-guide/)
+For more instructions on how to install and use git follow this [link](https://guides.github.com/introduction/git-handbook/)
 
 ## Running
 
 Before you can run the program you need to have Rust installed on your computer.
 
-Instructions for that can be found [here](www.rust-lang.org/tools/install)
+Instructions for that can be found [here](https://www.rust-lang.org/tools/install)
 
 Once Rust has been installed you can use cargo (Rust's package manager) to compile and run the program by typing the following command inside the working directory.
 ```bash
